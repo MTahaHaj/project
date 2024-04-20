@@ -1,2 +1,3 @@
 node_masuls/
 *.txt
+!a.txt
