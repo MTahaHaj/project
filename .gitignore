@@ -1,3 +1,5 @@
 node_masuls/
+text/
 *.txt
+
 !b.txt.txt
